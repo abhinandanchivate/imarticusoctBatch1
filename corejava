@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T11:23:37.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="G5R7aFH9e9EWfReYPFSU" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:14:54.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7LSN68BMX1bQSbux4bPl" version="20.5.1" type="github" pages="5">
   <diagram id="t6yNBFEOB7usPz_VkDhS" name="Page-1">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,6 +212,12 @@
         <mxCell id="2LFHuLPEHfG2h26X0uWa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2840" width="780" height="480" as="geometry" />
         </mxCell>
+        <mxCell id="qXeEzHYMl7tHoeSBLpvq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXeEzHYMl7tHoeSBLpvq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LFHuLPEHfG2h26X0uWa-3" value="calculateSalary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="50" y="2980" width="180" height="60" as="geometry" />
         </mxCell>
@@ -219,7 +225,7 @@
           <mxGeometry x="354" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LFHuLPEHfG2h26X0uWa-5" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="354" y="3020" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LFHuLPEHfG2h26X0uWa-6" value="manager = new Manager();" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry y="2870" width="250" height="60" as="geometry" />
@@ -231,7 +237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xF0KscrWNWIRJUglyrFJ" name="Page-4">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,6 +270,35 @@
         </mxCell>
         <mxCell id="7ZWQdVea5ulA-G7_lxAg-5" value="Constructor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="220" y="1790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-1" target="FNxzyk9060P5CH6xnFJ7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-1" value="manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-2" value="" style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="2275" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-4" value="employee ref is from arg list of insert employee method&lt;br&gt;ref is a type of employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2760" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-6" value="manager" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2580" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-7" target="FNxzyk9060P5CH6xnFJ7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-7" value="when we will refer the referencethrough&lt;br&gt;parent&lt;br&gt;reference&amp;nbsp;&lt;br&gt;then it will behavelike&lt;br&gt;a parent&lt;br&gt;&lt;br&gt;we can access only employee methods and fields as per the visibility +++ overridden method." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2640" width="390" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-8" value="how come ? override method? ==&amp;gt; whenever we will the overriden method then &amp;nbsp;: it will take &amp;nbsp;a call to execute any method on the basis of type of object." style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="735" y="3080" width="375" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
