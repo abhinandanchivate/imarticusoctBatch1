@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:14:54.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7LSN68BMX1bQSbux4bPl" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:36:03.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="GPUosJmOaPfYwiEB85eJ" version="20.5.1" type="github" pages="6">
   <diagram id="t6yNBFEOB7usPz_VkDhS" name="Page-1">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="liGPHE_GYL7aJMoLjD28" name="Page-3">
-    <mxGraphModel dx="2253" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,215 +206,343 @@
         <mxCell id="NM61VEeNiAxWvqa7s0CZ-35" value="Manager constructor." style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-1" value="1. can we declare sales class in DTO package which is extending employee class?&lt;br&gt;2. can we have an EDC in sales class?&lt;br&gt;3. can we use PC from base class (Employee ) inside the sales class DC?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-1" value="1. can we declare sales class in DTO package which is extending employee class?&lt;br&gt;2. can we have an EDC in sales class?&lt;br&gt;3. can we use PC from base class (Employee ) inside the sales class DC?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="-10" y="2460" width="610" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="-40" y="2840" width="780" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="qXeEzHYMl7tHoeSBLpvq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-4">
+        <mxCell id="qXeEzHYMl7tHoeSBLpvq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXeEzHYMl7tHoeSBLpvq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-5">
+        <mxCell id="qXeEzHYMl7tHoeSBLpvq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" parent="1" source="2LFHuLPEHfG2h26X0uWa-3" target="2LFHuLPEHfG2h26X0uWa-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-3" value="calculateSalary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-3" value="calculateSalary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="50" y="2980" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-4" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-4" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="354" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-5" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-5" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="480" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-6" value="manager = new Manager();" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-6" value="manager = new Manager();" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry y="2870" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LFHuLPEHfG2h26X0uWa-7" value="for overriding method call will be take n on the basis of type of object. &amp;nbsp;here it will call the method from the type of object." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="2LFHuLPEHfG2h26X0uWa-7" value="for overriding method call will be take n on the basis of type of object. &amp;nbsp;here it will call the method from the type of object." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry y="3150" width="410" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="xF0KscrWNWIRJUglyrFJ" name="Page-4">
-    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Az4x1h3IPrVVXIJ15ev-1" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="7Az4x1h3IPrVVXIJ15ev-1" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="414" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Az4x1h3IPrVVXIJ15ev-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="7Az4x1h3IPrVVXIJ15ev-2" target="7Az4x1h3IPrVVXIJ15ev-1">
+        <mxCell id="7Az4x1h3IPrVVXIJ15ev-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=21;" parent="1" source="7Az4x1h3IPrVVXIJ15ev-2" target="7Az4x1h3IPrVVXIJ15ev-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Az4x1h3IPrVVXIJ15ev-2" value="accounting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="7Az4x1h3IPrVVXIJ15ev-2" value="accounting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Az4x1h3IPrVVXIJ15ev-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" edge="1" parent="1" source="7Az4x1h3IPrVVXIJ15ev-3" target="7Az4x1h3IPrVVXIJ15ev-1">
+        <mxCell id="7Az4x1h3IPrVVXIJ15ev-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" parent="1" source="7Az4x1h3IPrVVXIJ15ev-3" target="7Az4x1h3IPrVVXIJ15ev-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Az4x1h3IPrVVXIJ15ev-3" value="accounting2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="7Az4x1h3IPrVVXIJ15ev-3" value="accounting2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZWQdVea5ulA-G7_lxAg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7ZWQdVea5ulA-G7_lxAg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="1850" width="490" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="7ZWQdVea5ulA-G7_lxAg-2" value="department fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7ZWQdVea5ulA-G7_lxAg-2" value="department fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="1890" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7ZWQdVea5ulA-G7_lxAg-3" value="Accounting fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="7ZWQdVea5ulA-G7_lxAg-3" value="Accounting fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="1890" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7ZWQdVea5ulA-G7_lxAg-4" value="accounting object" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="7ZWQdVea5ulA-G7_lxAg-4" value="accounting object" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="354" y="2090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ZWQdVea5ulA-G7_lxAg-5" value="Constructor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="7ZWQdVea5ulA-G7_lxAg-5" value="Constructor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="220" y="1790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-1" target="FNxzyk9060P5CH6xnFJ7-2">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" parent="1" source="FNxzyk9060P5CH6xnFJ7-1" target="FNxzyk9060P5CH6xnFJ7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-1" value="manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-1" value="manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="-110" y="2390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-2" value="" style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-2" value="" style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="2275" width="310" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-4">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" parent="1" source="FNxzyk9060P5CH6xnFJ7-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-4" value="employee ref is from arg list of insert employee method&lt;br&gt;ref is a type of employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-4" value="employee ref is from arg list of insert employee method&lt;br&gt;ref is a type of employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="150" y="2760" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-6" value="manager" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-6" value="manager" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="2580" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" edge="1" parent="1" source="FNxzyk9060P5CH6xnFJ7-7" target="FNxzyk9060P5CH6xnFJ7-8">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#3333FF;" parent="1" source="FNxzyk9060P5CH6xnFJ7-7" target="FNxzyk9060P5CH6xnFJ7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-7" value="when we will refer the referencethrough&lt;br&gt;parent&lt;br&gt;reference&amp;nbsp;&lt;br&gt;then it will behavelike&lt;br&gt;a parent&lt;br&gt;&lt;br&gt;we can access only employee methods and fields as per the visibility +++ overridden method." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-7" value="when we will refer the referencethrough&lt;br&gt;parent&lt;br&gt;reference&amp;nbsp;&lt;br&gt;then it will behavelike&lt;br&gt;a parent&lt;br&gt;&lt;br&gt;we can access only employee methods and fields as per the visibility +++ overridden method." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="600" y="2640" width="390" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="FNxzyk9060P5CH6xnFJ7-8" value="how come ? override method? ==&amp;gt; whenever we will the overriden method then &amp;nbsp;: it will take &amp;nbsp;a call to execute any method on the basis of type of object." style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="FNxzyk9060P5CH6xnFJ7-8" value="how come ? override method? ==&amp;gt; whenever we will the overriden method then &amp;nbsp;: it will take &amp;nbsp;a call to execute any method on the basis of type of object." style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="735" y="3080" width="375" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3hZHRd73YgdLdidX-n01" name="Page-5">
+    <mxGraphModel dx="3080" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-2" value="DOM : Document Object Model : Tree structure of our page.&lt;br&gt;&lt;br&gt;using js we can manipulate the Dom structure.&lt;br&gt;getElementById(id) : id : id attribute value of an element.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="280" y="170" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-3" target="Z11zKJnnipJ7qmz6x5ok-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-3" value="React :&amp;nbsp;&lt;br&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 30px; letter-spacing: 0.3px; background-color: rgb(40, 44, 52);&quot;&gt;A JavaScript library for building user interfaces&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="150" y="490" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-4" value="we have to write everything from scratch.&lt;br&gt;we should take the support either from library or from the framework." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="510" y="480" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-5" target="Z11zKJnnipJ7qmz6x5ok-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-5" value="React is a library or framework?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="520" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-6" value="library." style="whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="630" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-8" value="library Vs framework." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="480" y="830" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-9" target="Z11zKJnnipJ7qmz6x5ok-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-9" value="presentation" style="whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-11" value="everything is component." style="whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="770" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-13" target="Z11zKJnnipJ7qmz6x5ok-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-13" value="if you want to create any presentational&lt;br&gt;stuff&lt;br&gt;or&lt;br&gt;any rest call&lt;br&gt;or any validation&lt;br&gt;or any navigation.&lt;br&gt;everything we have to hold it in component." style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="919" width="410" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-14" value="component : &amp;nbsp;its a reusable code which can hold any presentational content or validational content etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-670" y="956" width="265" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-16" target="Z11zKJnnipJ7qmz6x5ok-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-16" target="Z11zKJnnipJ7qmz6x5ok-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-16" value="2 types of components :&amp;nbsp;&lt;br&gt;1. smart : rest call/ validational or any computational logic.&lt;br&gt;2. dumb : will not have any processing part." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-910" y="950" width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-17" value="" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-1135" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-19" value="" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-875" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="1370" width="440" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-22" value="Candidatename" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="1460" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-23" value="Current Organisation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="1500" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-24" value="Total Exp." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="1500" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-25" value="ProfileSnapshot." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-845" y="1330" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-26" value="in showing own profile" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-27" value="when any will search profile, basis of name / company etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1390" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-28" target="Z11zKJnnipJ7qmz6x5ok-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-28" value="ProfileComponent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="1330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.793;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" parent="1" source="Z11zKJnnipJ7qmz6x5ok-30" target="Z11zKJnnipJ7qmz6x5ok-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-30" value="SearchProfilesCompoent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="1485" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-32" value="highesteducationqualification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-33" value="model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-34" value="1. state&lt;br&gt;2. redux." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-35" value="in memory data." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-36" value="virtual DOM." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1480" y="1100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z11zKJnnipJ7qmz6x5ok-37" value="&lt;br&gt;Npm: node package manager ( rpm will hold the packages in our system only under the global installation).&lt;br&gt;here we will get project as per the installation which we have done.&lt;br&gt;to get the latest one right : we have to update it.&lt;br&gt;&lt;br&gt;npx : node package execute it will not hold anything globally .&amp;nbsp;&lt;br&gt;every time whenever you will fire the command it will give u the latest version for your package.&lt;br&gt;npx create-react-app client. ----&amp;gt; javascript&lt;br&gt;npx create-react-app client2 --template typescript&lt;br&gt;-- will help u to use typescript for your react app.&lt;br&gt;&lt;font color=&quot;#3333ff&quot;&gt;npx create-react-app client --template redux-typescript&lt;/font&gt;&lt;br&gt;will help you to use typescript and redux env. both." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="1780" width="900" height="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="trh6sUH-NCXYG8tbyfMd" name="Page-6">
     <mxGraphModel dx="3080" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-2" value="DOM : Document Object Model : Tree structure of our page.&lt;br&gt;&lt;br&gt;using js we can manipulate the Dom structure.&lt;br&gt;getElementById(id) : id : id attribute value of an element.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="420" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-3" target="Z11zKJnnipJ7qmz6x5ok-9">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-3" value="React :&amp;nbsp;&lt;br&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 30px; letter-spacing: 0.3px; background-color: rgb(40, 44, 52);&quot;&gt;A JavaScript library for building user interfaces&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="150" y="490" width="320" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-4" value="we have to write everything from scratch.&lt;br&gt;we should take the support either from library or from the framework." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="510" y="480" width="260" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-5" target="Z11zKJnnipJ7qmz6x5ok-6">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-5" value="React is a library or framework?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="520" y="740" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-6" value="library." style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="630" y="725" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-8" value="library Vs framework." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="830" width="310" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-9" target="Z11zKJnnipJ7qmz6x5ok-11">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-9" value="presentation" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-11" value="everything is component." style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="770" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-13" target="Z11zKJnnipJ7qmz6x5ok-14">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-13" value="if you want to create any presentational&lt;br&gt;stuff&lt;br&gt;or&lt;br&gt;any rest call&lt;br&gt;or any validation&lt;br&gt;or any navigation.&lt;br&gt;everything we have to hold it in component." style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="919" width="410" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-14" value="component : &amp;nbsp;its a reusable code which can hold any presentational content or validational content etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="956" width="265" height="176" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-16" target="Z11zKJnnipJ7qmz6x5ok-17">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-16" target="Z11zKJnnipJ7qmz6x5ok-19">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-1" target="fj15QtWzDWrsXlD4Fp67-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-16" value="2 types of components :&amp;nbsp;&lt;br&gt;1. smart : rest call/ validational or any computational logic.&lt;br&gt;2. dumb : will not have any processing part." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="950" width="190" height="270" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-1" value="DevConnector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="294" y="70" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-17" value="" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1135" y="1005" width="120" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-2" value="Linkedin&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-19" value="" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-875" y="705" width="120" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-3" value="Core" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1370" width="440" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-22" value="Candidatename" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="1460" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-23" value="Current Organisation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="1500" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-24" value="Total Exp." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="1500" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-25" value="ProfileSnapshot." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-845" y="1330" width="205" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-26" value="in showing own profile" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-27" value="when any will search profile, basis of name / company etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1390" width="220" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-28" target="Z11zKJnnipJ7qmz6x5ok-21">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-5" target="fj15QtWzDWrsXlD4Fp67-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-28" value="ProfileComponent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1330" width="220" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-5" value="User" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.793;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" edge="1" parent="1" source="Z11zKJnnipJ7qmz6x5ok-30" target="Z11zKJnnipJ7qmz6x5ok-21">
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-7" value="Dashboard" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-9" target="fj15QtWzDWrsXlD4Fp67-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-30" value="SearchProfilesCompoent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1485" width="250" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-9" value="Profiles" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-32" value="highesteducationqualification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="1430" width="60" height="30" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-11" target="fj15QtWzDWrsXlD4Fp67-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-33" value="model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="1310" width="60" height="30" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-11" value="Posts" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-34" value="1. state&lt;br&gt;2. redux." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-13" target="fj15QtWzDWrsXlD4Fp67-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-35" value="in memory data." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-13" value="Comments" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-36" value="virtual DOM." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="1100" width="130" height="60" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-15" target="fj15QtWzDWrsXlD4Fp67-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z11zKJnnipJ7qmz6x5ok-37" value="&lt;br&gt;Npm: node package manager ( rpm will hold the packages in our system only under the global installation).&lt;br&gt;here we will get project as per the installation which we have done.&lt;br&gt;to get the latest one right : we have to update it.&lt;br&gt;&lt;br&gt;npx : node package execute it will not hold anything globally .&amp;nbsp;&lt;br&gt;every time whenever you will fire the command it will give u the latest version for your package.&lt;br&gt;npx create-react-app client. ----&amp;gt; javascript&lt;br&gt;npx create-react-app client2 --template typescript&lt;br&gt;-- will help u to use typescript for your react app.&lt;br&gt;&lt;font color=&quot;#3333ff&quot;&gt;npx create-react-app client --template redux-typescript&lt;/font&gt;&lt;br&gt;will help you to use typescript and redux env. both." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="1780" width="900" height="410" as="geometry" />
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-15" value="common components which are required through the application." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-16" value="1. lay outing&amp;nbsp;&lt;br&gt;2. commonly required components for entire application" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="757.5" width="215" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" edge="1" parent="1" source="fj15QtWzDWrsXlD4Fp67-18" target="fj15QtWzDWrsXlD4Fp67-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="540" width="460" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-19" value="Navbar/header" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="570" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-20" value="Landing(initially will render the home page/ company related info/product details/ (it should render the content / component as per the navigation)." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="730" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-21" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="900" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-23" value="app component:rootcomponent of our react application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1110" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="670" width="370" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-25" value="index.html" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="700" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-27" value="div : id attribute : getElementById" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="790" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-28" value="Button" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-29" value="Can I declare a new Button component?&lt;br&gt;: yes&amp;nbsp;&lt;br&gt;: If I will use my button then whatever the changes we will do it , will be applicable to consumers." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="440" y="930" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-30" value="components : login, signup, forgot password 2Factor auth screen. etc." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="510" width="148" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-32" value="Dashboard.&lt;br&gt;display exp&lt;br&gt;edu&lt;br&gt;dashboard actions(add edu/exp, add/edit profile, delete profile." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="450" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-33" value="1. create profile&lt;br&gt;2. add edu&lt;br&gt;3. add exp form&lt;br&gt;4. display profile&lt;br&gt;5. display all profiles&lt;br&gt;6. delete profile." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="360" width="220" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-35" value="add/edit/display / delete posts" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="480" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-37" value="add/ delete / edit / display comments" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="660" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-39" value="like / dislike&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj15QtWzDWrsXlD4Fp67-41" value="POC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
